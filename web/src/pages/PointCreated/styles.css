@@ -1,0 +1,17 @@
+#point-created {
+  height: 100vh;
+  background-color: var(--title-color);
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#point-created h1 {
+  color: white;
+}
+
+#icon-div {
+  margin-bottom: 0.5rem;
+}
