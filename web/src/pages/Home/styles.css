@@ -21,7 +21,7 @@
 
 #page-home .content main {
   flex: 1;
-  max-width: 560px;
+  max-width: 540px;
 
   display: flex;
   flex-direction: column;
@@ -34,7 +34,7 @@
 }
 
 #page-home .content main p {
-  font-size: 24px;
+  font-size: 20px;
   margin-top: 24px;
   line-height: 38px;
 }
